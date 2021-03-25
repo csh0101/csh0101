@@ -1,8 +1,10 @@
-# hexo-matery-modified
-My personal modified hexo matery theme with some bugs fixed, modified from [hexo-theme-matery](https://github.com/blinkfox/hexo-theme-matery)
+#西江月
+<b>明月他乡易见</b>
+<b>轻舟此夜难逢</b>
+<b>银波千里送行程</b>
+<b>一枕清风入梦</b>
+<b>两岸如烟笔墨</b>
+<b>一江似雪情怀</b>
+<b>生得傲骨爱奇峰</b>
+<b>何必凌云为证？</b>
 
-# Demo
-[https://godweiyang.com](https://godweiyang.com)
-
-# Usage
-[https://godweiyang.com/2018/04/13/hexo-blog/](https://godweiyang.com/2018/04/13/hexo-blog/)

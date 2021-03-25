@@ -3,20 +3,20 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 韦阳的博客
-subtitle: 算法码上来
-description: 华东师范大学 | 计算机科学与技术 | 自然语言处理
-keywords: "ECNU NLP DeepLearning AntNLP 韦阳 godweiyang WeiYang 自然语言处理 深度学习 算法码上来"
-author: 韦阳
+title: 陈适的博客
+subtitle: 俯仰无愧天地，褒贬自有春秋
+description: 浙江大学宁波理工学院 | 计算机科学与技术 | 云计算
+keywords: "csh0310-27-Hello-world"
+author: 陈适
 language: zh-CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://godweiyang.com
-root: /
-permalink: :year/:month/:day/:title/
-permalink_defaults:
+# url: https://godweiyang.com
+# root: /
+# permalink: :year/:month/:day/:title/
+# permalink_defaults:
 
 # Directory
 source_dir: source
@@ -69,11 +69,11 @@ feed:
   order_by: -date
 
 Plugins:
-- hexo-generator-baidu-sitemap
+# - hexo-generator-baidu-sitemap
 - hexo-generator-sitemap
 
-baidusitemap:
-    path: baidusitemap.xml
+# baidusitemap:
+    # path: baidusitemap.xml
 sitemap:
     path: sitemap.xml
   
@@ -113,10 +113,9 @@ theme: matery
 deploy:
 - type: git
   repository:
-    github: git@github.com:godweiyang/godweiyang.github.io.git
-    coding: git@e.coding.net:godweiyang/godweiyang.git
+    github: git@github.com:csh0101/csh0101.github.io.git
   branch: master
-- type: baidu_url_submitter
+# - type: baidu_url_submitter
 
 
 live2d:
@@ -138,8 +137,8 @@ live2d:
   react:
     opacity: 0.7
 
-baidu_url_submit:
-  count: 100
-  host: godweiyang.com
-  token: jp7MKvOw74Yh3F09
-  path: baidu_urls.txt
+# baidu_url_submit:
+  # count: 100
+  # host: godweiyang.com
+  # token: jp7MKvOw74Yh3F09
+  # path: baidu_urls.txt
